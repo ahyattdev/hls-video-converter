@@ -1,5 +1,5 @@
 # hls-video-converter
-Convert the chunk list of an HTTP live string into a MP4 video
+Convert the chunk list of an HTTP live stream into a MP4 video
 
 ## Dependencies
 ffmpeg
